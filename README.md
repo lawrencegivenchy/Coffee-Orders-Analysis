@@ -52,4 +52,6 @@ Draw.io: For designing the Entity Relationship Diagram (ERD).
 
 🧹 Cleaned Data: > 🔗 [Excel data & Dashbpard](./CoffeeAnalysis.xlsx)
 
+Dashboard Image:> [Image](./DashboardImage.pdf)
+
 
