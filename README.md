@@ -46,10 +46,10 @@ Power BI: For DAX measure creation and interactive dashboarding.
 Draw.io: For designing the Entity Relationship Diagram (ERD).
 
 ## 🎥 How to View
-📊 Dashboard Preview: > 🔗 View Dashboard File
+📊 Dashboard Preview: > 🔗 CoffeeAnalysis.pbix
 
-🏗️ Entity Relationship Diagram: > 🔗 View ERD Diagram
+🏗️ Entity Relationship Diagram: > 🔗 CoffeeERD.pdf
 
-🧹 Cleaned Data: > 🔗 View Cleaned Dataset
+🧹 Cleaned Data: > 🔗 CoffeeAnalysis.xlsx
 
 
